@@ -6,7 +6,7 @@ minify = true # 生产环境压缩代码
 compatibility_flags = [ "nodejs_compat" ]
 compatibility_date = "2025-03-01"
 
-# 启用 D1 数据库
+# 启用 D1 数据库1
 [[d1_databases]]
 binding = "DB"
 database_name = "mailtest"
