@@ -9,7 +9,7 @@ compatibility_date = "2025-03-01"
 # 启用 D1 数据库
 [[d1_databases]]
 binding = "DB"
-database_name = "mailtese"
+database_name = "mailtest"
 database_id = "e8d55aec-9885-46b4-a4c9-a08d93e9819b"  # 需要替换为您的实际数据库 ID
 
 # 配置邮件处理
